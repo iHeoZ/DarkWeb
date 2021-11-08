@@ -1,11 +1,11 @@
 # DarkWeb
-Pagina web responsive 
 
-#Teconologias
--HTML
--CSS
--SCSS
--JS
+[DarkWeb](https://dark-images.netlify.app/) Pagina web responsive 
 
-#Link:
-https://dark-images.netlify.app/
+## Teconologias
+- HTML
+- CSS
+- SCSS
+- JS
+- NPM
+- NODE.JS
